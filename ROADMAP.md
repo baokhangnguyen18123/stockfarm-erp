@@ -1,4 +1,4 @@
-# STOCKFARM ERP — ROADMAP RÚT GỌN
+# STOCKFARM ERP — ROADMAP
 
 > Hệ thống quản lý cửa hàng thức ăn chăn nuôi và trang trại heo  
 > Mục tiêu nghề nghiệp: **.NET Developer + Business Analyst**  
